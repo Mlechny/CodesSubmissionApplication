@@ -11,7 +11,7 @@ import SwiftUI
 struct CodesSubmissionApplicationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LanguageList()
         }
     }
 }
